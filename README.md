@@ -42,10 +42,10 @@ python3 main_av_cli.py ~/Downloads signatures_sha256.txt -v
 
 Monitors filesystem and automatically:
 
-• detects malicious files
-• removes execute permissions
-• moves them to quarantine
-• logs the event
+- detects malicious files
+- removes execute permissions
+- moves them to quarantine
+- logs the event
 
 Quarantine folder:
 

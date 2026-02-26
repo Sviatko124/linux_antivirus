@@ -127,7 +127,7 @@ d47fb0d85e67ecacf03060780eee0770e6e06...
 
 Recommended real malware hash database:
 
-[https://github.com/aaryanrlondhe/Malware-Hash-Database/tree/main]
+https://github.com/aaryanrlondhe/Malware-Hash-Database/tree/main
 
 You can copy hashes into:
 

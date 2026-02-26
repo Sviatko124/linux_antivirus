@@ -76,7 +76,6 @@ git clone https://github.com/sviatko124/linux-antivirus.git
 cd linux-antivirus
 ```
 
----
 
 ## Install Python dependencies
 
@@ -87,7 +86,6 @@ Install libraries:
 pip install -r requirements.txt
 ```
 
----
 
 ## Install required C libraries
 
@@ -96,7 +94,6 @@ sudo apt update
 sudo apt install build-essential gcc libssl-dev python3-dev
 ```
 
----
 
 ## Compile C module
 
@@ -104,20 +101,13 @@ sudo apt install build-essential gcc libssl-dev python3-dev
 gcc -g -Wall -shared -fPIC modules.c -o modules.so -lssl -lcrypto
 ```
 
----
 
 ## Install antivirus service
-
 
 ```
 chmod +x install_service.sh
 sudo ./install_service.sh
 ```
-
-
----
-
-
 
 ---
 

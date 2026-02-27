@@ -72,7 +72,7 @@ Signature database location:
 ## Clone repository
 
 ```
-git clone https://github.com/sviatko124/linux-antivirus.git
+git clone https://github.com/sviatko124/linux_antivirus
 cd linux-antivirus
 ```
 
